@@ -1,0 +1,7 @@
+Steam OS
+
+is primarily designed for playing video games away from a pc(e.g. from the couch in one's lving room)by providing a console-like experience using generic PC hardware that can connect directly to a television. Can run games that are made for linux and have been bought from steam. Steam OS is open Source, allowing users to build on or adapt the source code, though the actual Steam client is closed.
+
+Since SteamOS is solely for playing games without use of mouse or keyboard, it does not have many built-in functions beyond web browsing and playing games; for example, there is no file manager or image viewer installed by default. Users can, however, access the GNOME desktop environment and perform tasks like installing other software.[9] Though the OS does not, in its current form, support streaming services, Valve is in talks with streaming companies such as Spotify and Netflix to bring their features to SteamOS.
+
+A custom installer method is also available, which can require additional configuration steps. This method allows for smaller hard-disk sizes. There is also an ISO image installer that supports legacy BIOS motherboard. The installers can be sourced through Valve's repository.
